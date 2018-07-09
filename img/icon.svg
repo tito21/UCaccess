@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="C:\Users\Yo\Documents\GitHub\PUC extension\img\icon256.png"
+   inkscape:export-xdpi="480"
+   inkscape:export-ydpi="480">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8"
+     inkscape:cx="4.1875"
+     inkscape:cy="27.645399"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="24,24"
+       orientation="1,0"
+       id="guide4144" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid4146" />
+    <sodipodi:guide
+       position="24,24"
+       orientation="0,1"
+       id="guide4148" />
+    <sodipodi:guide
+       position="-4,3"
+       orientation="0,1"
+       id="guide4152" />
+    <sodipodi:guide
+       position="-2,45"
+       orientation="0,1"
+       id="guide4154" />
+    <sodipodi:guide
+       position="3,3"
+       orientation="1,0"
+       id="guide4156" />
+    <sodipodi:guide
+       position="45,1"
+       orientation="1,0"
+       id="guide4158" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="opacity:1">
+    <rect
+       style="opacity:1;fill:#3d7edf;fill-opacity:1;stroke:none;stroke-width:1.20000005;stroke-miterlimit:4;stroke-dasharray:7.2, 7.20000000000000020;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4162"
+       width="48"
+       height="48"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1004.3622)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:113%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#fffffd;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="23.936327"
+       y="1023.7754"
+       id="text4136"
+       sodipodi:linespacing="113%"><tspan
+         sodipodi:role="line"
+         id="tspan4138"
+         x="23.936327"
+         y="1023.7754"
+         style="font-size:22.5px;line-height:113%;text-align:center;text-anchor:middle;fill:#fffffd;fill-opacity:1;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;writing-mode:lr">BD</tspan><tspan
+         sodipodi:role="line"
+         x="23.936327"
+         y="1047.4003"
+         id="tspan4140"
+         style="font-size:22.5px;line-height:113%;text-align:center;text-anchor:middle;fill:#fffffd;fill-opacity:1;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;writing-mode:lr">UC</tspan></text>
+  </g>
+</svg>

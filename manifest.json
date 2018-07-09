@@ -1,0 +1,37 @@
+{
+    "manifest_version": 2,
+    "name": "PUC access",
+    "author": "Alberto Di Biase",
+    "version": "0.1",
+    "description": "Accede rápidamente a artículos y papers bloqueados usando tu cuenta UC",
+    "icons": {
+        "16": "img/icon16.png",
+        "24": "img/icon24.png",
+        "32": "img/icon32.png",
+        "48": "img/icon48.png",
+        "128": "img/icon128.png",
+        "256": "img/icon256.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*.uc.cl/*",
+                "*://*.puc.cl/*",
+                "<all_urls>"
+            ],
+            "js": ["content.js"]
+        }
+    ],
+    "browser_action": {
+        "default_icon": {
+            "16": "img/icon16.png",
+            "24": "img/icon24.png",
+            "32": "img/icon32.png",
+            "48": "img/icon48.png",
+            "128": "img/icon128.png",
+            "256": "img/icon256.png"
+          },
+          "default_title": "Get access to the paper",
+          "default_popup": "popup.html"
+    }
+}
