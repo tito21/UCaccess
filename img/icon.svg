@@ -18,9 +18,9 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="icon.svg"
-   inkscape:export-filename="C:\Users\Yo\Documents\GitHub\PUC extension\UCaccess\img\icon_24.png"
-   inkscape:export-xdpi="45"
-   inkscape:export-ydpi="45"
+   inkscape:export-filename="C:\Users\Yo\Documents\GitHub\PUC extension\UCaccess\img\icon_256.png"
+   inkscape:export-xdpi="480"
+   inkscape:export-ydpi="480"
    enable-background="new">
   <sodipodi:namedview
      id="base"
@@ -30,8 +30,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16.086679"
-     inkscape:cx="30.973934"
-     inkscape:cy="20.924969"
+     inkscape:cx="19.598062"
+     inkscape:cy="25.898028"
      inkscape:document-units="px"
      inkscape:current-layer="g5947"
      showgrid="false"
@@ -94,7 +94,6 @@
          id="stop5739" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient4283"
        osb:paint="gradient">
       <stop
@@ -124,7 +123,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
