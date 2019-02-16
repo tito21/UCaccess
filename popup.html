@@ -1,26 +1,31 @@
-<html>
-    <script src=sendmsg.js ></script>
-    <style>
-        body {
-            width: 100px;
-            height: 50px;
-            background: #f4f4f4;
-        }
-        img {
-            padding: 0 25;
-            animation: 1.5s linear infinite rotate;
-        }
-        @keyframes rotate {
-            from {
-                transform: rotate(0deg)
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8"/>
+        <script src=sendmsg.js ></script>
+        <style>
+            body {
+                width: 100px;
+                height: 75px;
+                background: #f4f4f4;
+                overflow: hidden;
             }
-            to {
-                transform: rotate(360deg)
+            img {
+                animation: 1.5s linear infinite rotate;
+                margin: 0 25px;
             }
-        }
-    </style>
+            @keyframes rotate {
+                from {
+                    transform: rotate(0deg)
+                }
+                to {
+                    transform: rotate(360deg)
+                }
+            }
+        </style>
+    </head>
     <body>
-        <img src=\img\loading.svg width="50" height="50">
+        <img src=/img/loading.svg width="50" height="50">
         <p style="font-size: 6pt">loading by Hector from the Noun Project</p>
     </body>
 </html>
