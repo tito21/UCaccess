@@ -3,7 +3,7 @@
 Extension para desbloquear acceso a papers y artículos usando tu cuenta UC.
 
 La puedes instalar en [Google Chrome](https://chrome.google.com/webstore/detail/uc-access/leoijilpkelhgbhkneanedjffjhedcoa)
-o en [Firefox](https://addons.mozilla.org/en-US/firefox/addon/uc-access/).
+o en [Firefox](https://github.com/tito21/UCaccess/raw/master/packages/uc_access-0.1.31-an%2Bfx.xpi).
 
 Probado en Chrome y Firefox, pero debería funcionar en cualquier navegador que soporte WebExtensions API (Opera, Edge, Brave, Vivaldi)
 
