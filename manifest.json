@@ -3,7 +3,7 @@
     "name": "UC access",
 
     "author": "Alberto Di Biase",
-    "version": "0.1.3",
+    "version": "0.1.31",
     "description": "Accede rápidamente a el texto completo de artículos y papers bloqueados usando tu cuenta UC",
     "icons": {
         "48": "img/logo_48.png",
